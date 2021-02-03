@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-<!--
-**pr13260/pr13260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Student, a noob . I love Tech Stuffs.
 
-Here are some ideas to get you started:
+- **Languages learnt: Python :snake:, PHP (A Bit) Shell scripting**
+ 
+- **Currently learning: JavaScript, C#, etc**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Find me out at
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/vixen_23)
+
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/spechide/&title=Profile%20Views)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pr13260&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
