@@ -7,13 +7,13 @@ I'm a Student, a noob . I love Tech Stuffs.
 - **Currently learning: JavaScript, C#, etc**
 
 ### Find me out at
-[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/hunter_XDD)
+[![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/Vixen_23)
 
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/Hunter-XDD/&title=Profile%20Views)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/pr13260&title=Profile%20Views)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Hunter-XDD&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=pr13260&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pr13260&theme=monokai)](https://github.com/Hunter-XDD/Hunter-XDD)
+[![trophy](https://github-profile-trophy.vercel.app/?username=pr13260&theme=monokai)](https://github.com/pr13260)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunter-XDD&layout=compact&theme=tokyonight)](https://github.com/Hunter-XDD/Hunter-XDD)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr13260&layout=compact&theme=tokyonight)](https://github.com/pr13260)
