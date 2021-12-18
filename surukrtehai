@@ -1,6 +1,0 @@
-curl $dl_link -o SMTP
-wget $cb_limk -o mc.txt
-pip2 install requests
-pip2 install Queue
-pip2 install colorama
-python2 SMTP
