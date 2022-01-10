@@ -1,11 +1,5 @@
 ## Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-I'm a Student, a noob . I love Tech Stuffs.
-
-- **Languages learnt: Python :snake:, PHP (A Bit) Shell scripting**
- 
-- **Currently learning: JavaScript, C#, etc**
-
 ### Find me out at
 [![Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/vixen_23)
 
