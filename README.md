@@ -13,7 +13,6 @@
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=pr13260&theme=monokai)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pr13260&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr13260&layout=compact&theme=tokyonight)
 
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/pr13260/&title=Profile%20Views)
