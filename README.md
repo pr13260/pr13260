@@ -33,5 +33,5 @@ Yet another lazy dev!
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pr13260&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-![](https://visitcount.itsvg.in/api?id=pr13260&icon=7&color=0)
+![]([https://visitcount.itsvg.in/api?id=pr13260&icon=7&color=0](https://komarev.com/ghpvc/?username=pr13260&base=12432&label=Profile+Visitors&style=for-the-badge&color=blueviolet))
 
