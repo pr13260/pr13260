@@ -28,7 +28,7 @@ Yet another lazy dev!
 # 📊 GitHub Stats:
 ![GH STATS](http://git.thessc.edu.eu.org/api?username=pr13260&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pr13260&theme=shades-of-purple&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&fire=2229EB&ring=26EBD0)<br/>
-![[](http://git.thessc.edu.eu.org/api/top-langs/?username=pr13260&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
+![](http://git.thessc.edu.eu.org/api/top-langs/?username=pr13260&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pr13260&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
