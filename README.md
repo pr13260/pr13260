@@ -31,7 +31,7 @@ Yet another lazy dev!
 ![](http://git.thessc.edu.eu.org/api/top-langs/?username=pr13260&theme=solarized-dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut)
 
 ## 🏆 GitHub Trophies
-![](https://ghtrophy.thessc.edu.eu.org/?username=pr13260&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+![](https://ghtrophy.thessc.edu.eu.org/?username=pr13260&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 ![](https://komarev.com/ghpvc/?username=pr13260&base=12432&label=Profile+Visitors&style=for-the-badge&color=blueviolet)
 
