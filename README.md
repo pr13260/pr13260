@@ -33,5 +33,6 @@ Yet another lazy dev!
 ## 🏆 GitHub Trophies
 ![](https://ghtrophy.thessc.edu.eu.org/?username=pr13260&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
-![](https://komarev.com/ghpvc/?username=pr13260&base=12432&label=Profile+Visitors&style=for-the-badge&color=blueviolet)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pr13260&base=12432&label=Profile+Visitors&style=for-the-badge&color=blueviolet" alt="Profile Visitors Badge">
+</div>
